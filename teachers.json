@@ -1,0 +1,52 @@
+{
+    "teachers": [
+        {
+            "id": 1,
+            "name": "Jane Doe",
+            "specialization": "Autism Spectrum Disorder",
+            "experience": "10 years",
+            "bio": "Dedicated to helping children with ASD develop communication and social skills.",
+            "image": "https://placehold.co/300x200/c7ceea/ffffff?text=Jane+D."
+        },
+        {
+            "id": 2,
+            "name": "John Smith",
+            "specialization": "Dyslexia & Learning Disabilities",
+            "experience": "8 years",
+            "bio": "Passionate about creating personalized learning strategies for students with dyslexia.",
+            "image": "https://placehold.co/300x200/f6d186/ffffff?text=John+S."
+        },
+        {
+            "id": 3,
+            "name": "Emily White",
+            "specialization": "ADHD & Behavioral Support",
+            "experience": "12 years",
+            "bio": "Experienced in creating structured environments where children with ADHD can thrive.",
+            "image": "https://placehold.co/300x200/b8e994/ffffff?text=Emily+W."
+        },
+        {
+            "id": 4,
+            "name": "Michael Brown",
+            "specialization": "Down Syndrome",
+            "experience": "15 years",
+            "bio": "A firm believer in inclusive education and celebrating the unique abilities of each child.",
+            "image": "https://placehold.co/300x200/f8c291/ffffff?text=Michael+B."
+        },
+        {
+            "id": 5,
+            "name": "Sarah Green",
+            "specialization": "Speech and Language Therapy",
+            "experience": "7 years",
+            "bio": "Helps children overcome speech impediments and develop confidence in their communication.",
+            "image": "https://placehold.co/300x200/e5bde3/ffffff?text=Sarah+G."
+        },
+        {
+            "id": 6,
+            "name": "David Black",
+            "specialization": "Visual Impairment",
+            "experience": "9 years",
+            "bio": "Expert in Braille literacy and assistive technologies for visually impaired students.",
+            "image": "https://placehold.co/300x200/96d7eb/ffffff?text=David+B."
+        }
+    ]
+}
